@@ -30,9 +30,50 @@ Perfect for recreational flying, paragliding, hot‑air balloons, hiking – any
 - Device with GPS, barometer, and magnetometer (iPhone 6 or newer)  
 - For CarPlay: a compatible car and a USB / wireless connection
 
-## Setup & Build
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/RV-Pilot.git
-   cd RV-Pilot
+Usage on iPhone
+
+Grant Location permission (required for GPS, speed, heading)
+The main screen immediately shows altitude, speed, attitude
+Tap the ⚙️ gear icon to configure:
+
+Units of measure
+Voice selection (language, premium voices, preview)
+Alert thresholds and custom messages (use {value} as a placeholder)
+Tap the ℹ️ info icon to view app details and privacy statement
+CarPlay
+
+Once your device is connected to the car:
+
+The RV‑Pilot icon appears in the CarPlay launcher
+Three tabs are available:
+
+Navigation – speed, vertical speed, heading
+Altitude – GPS altitude, barometric altitude, pressure
+Level – pitch and roll
+The Dashboard (instrument cluster view, if supported by the car) shows a compact grid with essential values
+Voice alerts are automatically routed to the car’s audio system
+Architecture
+
+UIKit – iPhone/iPad user interface
+CarPlay – both template‑based and dashboard scenes
+CoreLocation – GPS, heading, ground speed
+CoreMotion – barometric pressure (CMAltimeter) and device attitude (CMMotionManager)
+AVFoundation – speech synthesis for voice alerts
+Combine – reactive data flow from sensors to UI
+UserDefaults – persistent settings
+Contributing
+
+Bug reports and feature requests are welcome via GitHub Issues.
+To contribute code:
+
+Fork the repository
+Create a feature branch
+Submit a pull request
+License
+
+This project is released under the MIT License – see the LICENSE file for details.
+
+Contact
+
+For support or questions, please open an issue or use the email provided inside the app’s About screen.
