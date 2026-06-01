@@ -1,4 +1,4 @@
-# RV‑Pilot – Aviation Instruments for iOS & CarPlay
+# RV‑Pilot – RV Companion Instruments for iOS & CarPlay
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20CarPlay-blue)](https://developer.apple.com/carplay/)
