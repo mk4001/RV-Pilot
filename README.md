@@ -31,7 +31,7 @@ Perfect for recreational flying, paragliding, hot‑air balloons, hiking – any
 - For CarPlay: a compatible car and a USB / wireless connection
 
 
-Usage on iPhone
+## Usage on iPhone
 
 Grant Location permission (required for GPS, speed, heading)
 The main screen immediately shows altitude, speed, attitude
@@ -41,7 +41,8 @@ Units of measure
 Voice selection (language, premium voices, preview)
 Alert thresholds and custom messages (use {value} as a placeholder)
 Tap the ℹ️ info icon to view app details and privacy statement
-CarPlay
+
+## CarPlay
 
 Once your device is connected to the car:
 
@@ -53,7 +54,8 @@ Altitude – GPS altitude, barometric altitude, pressure
 Level – pitch and roll
 The Dashboard (instrument cluster view, if supported by the car) shows a compact grid with essential values
 Voice alerts are automatically routed to the car’s audio system
-Architecture
+
+## Architecture
 
 UIKit – iPhone/iPad user interface
 CarPlay – both template‑based and dashboard scenes
@@ -62,7 +64,8 @@ CoreMotion – barometric pressure (CMAltimeter) and device attitude (CMMotionMa
 AVFoundation – speech synthesis for voice alerts
 Combine – reactive data flow from sensors to UI
 UserDefaults – persistent settings
-Contributing
+
+## Contributing
 
 Bug reports and feature requests are welcome via GitHub Issues.
 To contribute code:
