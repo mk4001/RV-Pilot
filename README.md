@@ -7,6 +7,8 @@
 **RV‑Pilot** is a professional altimeter and attitude indicator for iPhone, iPad, and CarPlay.  
 Perfect for recreational flying, paragliding, hot‑air balloons, hiking – anywhere you need altitude, vertical speed, pressure, and attitude.
 
+https://apps.apple.com/it/app/rv-pilot/id6775754160?l=en-GB
+
 ## Features
 
 - **GPS Altitude** – absolute MSL altitude with accuracy indication  
