@@ -48,6 +48,11 @@ RV‑Pilot Pro is a **one‑time purchase** (no subscription). You can buy or re
 ### iPhone
 
 <p>
+  <img src="images/iphone-cockpit.jpg" width="230" alt="Cockpit: giant GPS altitude, vertical speed, speed, heading, pressure trend">
+  <img src="images/iphone-flight.jpg" width="230" alt="Flight Display with speed and altitude tapes">
+  <img src="images/iphone-level.jpg" width="230" alt="Level Assistant with wedge heights">
+  <img src="images/iphone-trip.jpg" width="230" alt="Trip Log with elevation profile">
+  <img src="images/iphone-trend.jpg" width="230" alt="Barometric Trend">
   <img src="images/iphone-whatsnew-1.jpg" width="230" alt="What's New in RV-Pilot 2.0">
   <img src="images/iphone-whatsnew-2.jpg" width="230" alt="What's New in RV-Pilot 2.0, continued">
   <img src="images/iphone-liveactivity.jpg" width="230" alt="Live Activity on the Lock Screen">
